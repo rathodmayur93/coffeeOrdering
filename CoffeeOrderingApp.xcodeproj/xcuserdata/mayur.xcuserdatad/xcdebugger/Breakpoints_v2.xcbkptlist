@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B555F614-F967-4418-A1B0-898A713850E5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84A4C8F0-D835-4203-B753-D3B448C90CCC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeOrderingApp/Views/OrderListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "init(orders:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F199DE7-2681-4C65-83FC-B22D5B7C02E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeOrderingApp/ViewModel/OrderListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "fetchOrders()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3F199DE7-2681-4C65-83FC-B22D5B7C02E9 - 21a66984ab18bdeb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoffeeOrderingApp.OrderListViewModel.fetchOrders() -&gt; ()"
+                  moduleName = "CoffeeOrderingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mayur/Documents/Mayur/Learning/SwiftUI/CoffeeOrderingApp/CoffeeOrderingApp/ViewModel/OrderListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "3F199DE7-2681-4C65-83FC-B22D5B7C02E9 - 4ef0bf866332d693"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;CoffeeOrderingApp.Order&gt;&gt;) -&gt; () in CoffeeOrderingApp.OrderListViewModel.fetchOrders() -&gt; ()"
+                  moduleName = "CoffeeOrderingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mayur/Documents/Mayur/Learning/SwiftUI/CoffeeOrderingApp/CoffeeOrderingApp/ViewModel/OrderListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "97">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0F183EB-3A20-41B4-9767-189590247073"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeOrderingApp/ViewModel/OrderListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchOrders()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
